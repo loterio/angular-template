@@ -14,3 +14,13 @@
 .card:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.35);
 }
+.card-head {
+    font-size: 2rem;
+    color: #424242;
+    font-weight: 600;
+
+    padding-bottom: .4rem;
+}
+.card-body {
+    color: #757575;
+}
